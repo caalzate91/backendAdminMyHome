@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/intellij,kotlin
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij,kotlin
 
@@ -118,6 +119,8 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 ### Kotlin ###
+=======
+>>>>>>> 4d294bc6dc667c17a277d0b5e4c8358c853ab07d
 # Compiled class file
 *.class
 
@@ -142,5 +145,8 @@ fabric.properties
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,kotlin
+=======
+>>>>>>> 4d294bc6dc667c17a277d0b5e4c8358c853ab07d
